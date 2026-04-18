@@ -12,6 +12,7 @@ Zero-code compliance enforcement with audit trails for Jira Cloud.
 - [Getting Started](#getting-started)
 - [Privacy Policy](privacy-policy)
 - [End User License Agreement](eula)
+- [Support & SLA](sla)
 
 ---
 
@@ -107,3 +108,4 @@ A: Each rule has configurable notification settings. When a rule fires on an act
 
 - [Privacy Policy](privacy-policy)
 - [End User License Agreement](eula)
+- [Support & SLA](sla)
